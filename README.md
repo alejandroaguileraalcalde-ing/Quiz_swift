@@ -8,4 +8,4 @@ Juego creado con swift para responder preguntas  en un móvil que se descargan d
 
 ### Pantalla para responder
 
-![App image](pregunta.jpeg)
+![App image](preguntas.jpeg)
